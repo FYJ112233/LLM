@@ -13,3 +13,5 @@ python: 3.7
 Dataset :SYSU-MM01, Reg-DB
 
 LLM approach model of SYSU-MMO1 in:  https://pan.baidu.com/s/1ecXnB3Rhl2xQWZ2y-3HoIQ, code is ocjz .
+
+This code largely benefits from following repositories: https://github.com/mangye16/Cross-Modal-Re-ID-baseline. I am very grateful to the author (@mangye16) for his contribution and help.
