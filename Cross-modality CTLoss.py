@@ -1,4 +1,4 @@
-class TripletCenterLoss(nn.Module):
+class CTLoss(nn.Module):
     def __init__(self, margin=0, num_classes=10):
         super(TripletCenterLoss, self).__init__() 
         self.margin = margin 
