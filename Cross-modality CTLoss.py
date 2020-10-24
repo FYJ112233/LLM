@@ -1,5 +1,5 @@
 class CTLoss(nn.Module):
-    def __init__(self, margin=0, num_classes=10):
+    def __init__(self, margin, num_classes):
         super(TripletCenterLoss, self).__init__() 
         self.margin = margin 
         self.ranking_loss = nn.MarginRankingLoss(margin=margin) 
