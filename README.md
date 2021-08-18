@@ -30,3 +30,5 @@ References
 [5] Zhang H, Dana K, Shi J, et al. Context encoding for semantic segmentation[C]//Proceedings of the IEEE conference on Computer Vision and Pattern Recognition. 2018: 7151-7160.
 
 [6]Zhang H, Xue J, Dana K. Deep ten: Texture encoding network[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2017: 708-717.
+
+[7]Ye M, Shen J, Lin G, et al. Deep learning for person re-identification: A survey and outlook[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021.
