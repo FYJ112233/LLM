@@ -25,7 +25,7 @@ Pytorch Code of LLM method for "LLM:LEARNING-CROSS-MODALITY-PERSON-RE-IDENTIFICA
    - run `python pre_process_sysu.py`  in to pepare the dataset, the training data will be stored in ".npy" format.
 
 ### 2. Test.
-  Train a model by
+  Test a model by
   ```bash
 python test.py
   ```
