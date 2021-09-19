@@ -51,9 +51,9 @@ Please kindly cite the references in your publications if it helps your research
   title={LLM: Learning Cross-modality Person Re-identification via Low-rank Local Matching},
   author={Jian, Feng Yu and Xu, Jing and Ji, Yi-mu and Wu, Fei},
   journal={IEEE Signal Processing Letters},
-  year={2021},
   volume={28},
   pages={1789-1793},
+  year={2021},
   publisher={IEEE}
 }
 ```
